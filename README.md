@@ -20,4 +20,9 @@ This application is ideal for individuals looking to manage their daily schedule
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Storage**: Local Storage (no server or database required)
 
+- ## Live Site
+
+Experience the full functionality of the **To-Do List Application** by visiting the [live site](https://sparkling-phoenix-3869a9.netlify.app/). Start organizing your tasks effortlessly today!
+
+
 We invite you to explore the features of this application and incorporate it into your daily routine to enhance productivity and task management.
